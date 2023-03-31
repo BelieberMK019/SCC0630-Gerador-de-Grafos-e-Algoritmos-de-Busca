@@ -1,0 +1,15 @@
+Número de vezes que não foi encontrado caminho: 0
+
+Número de Nós Percorridos	Comprimento do Caminho	Tempo de Execução
+
+Busca em Profundidade
+3302			313215.91041605343			50.434231758117676
+
+Busca Best First
+43			5890.600497228799			0.028923511505126953
+
+Busca Heurística A
+43			5803.096572085529			0.03889203071594238
+
+Busca Heurística A*
+43			5298.339609827572			2.450875997543335

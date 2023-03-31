@@ -1,0 +1,21 @@
+Número de vezes que não foi encontrado caminho: 0
+
+Número de Nós Percorridos	Comprimento do Caminho	Tempo de Execução
+
+Busca em Profundidade
+699			45017.806543343475			0.13267731666564941
+
+Busca em Largura por pontos
+75			5865.180110789299			1850.9499793052673
+
+Busca em Largura por distância
+78			5645.904740324676			718.8971252441406
+
+Busca Best First
+76			5930.379350481658			0.02293992042541504
+
+Busca Heurística A
+76			5912.465252551862			0.03490781784057617
+
+Busca Heurística A*
+78			5645.904740324676			5.970177412033081
